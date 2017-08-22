@@ -1,1 +1,8 @@
-Just a quick implementation of a GraphQL server using Python 3.5.2, Django, and Graphene
+Just a quick implementation of a GraphQL server using Python 3.5.2, Django, and Graphene.
+
+Want to try it out?
+1. Clone repo.
+1. Set up virtualenv with Python 3.5.2
+1. `pip install -r requirements.txt` from the root of the repo.
+1. `cd cookbook` and then `python manage.py runserver`
+1. Head to `http://localhost:8000/graphql` to mess around with it.
